@@ -1,0 +1,4 @@
+{
+  "build": "npm install",
+  "run": "node --import tsx src/generate.ts"
+}
